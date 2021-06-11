@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ##
  __________________________________________________________________________________________________________________________________________________________________
- <p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/AyushRajSharma/count.svg" />
-</p>
+</p>-->
 
 ##
 
