@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <p align="center"><h1 align="center"><samp> I am Ayush Raj </samp></h1></p>
 
 - 🔭 I am Student at IIT Guwahati pusuing Btech with Mathematics and Computing Stream and will graduate in 2023.
+- 🌱 sucessfully completed Kharagpur Winter of Code 2020 (KWoC2020) presented by KOSS.
+- 🌱 Successfully completed HacktoberFest 2020 presented by Digital Ocean.
 
 ##
  __________________________________________________________________________________________________________________________________________________________________
