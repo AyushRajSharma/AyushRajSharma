@@ -83,8 +83,8 @@ Here are some ideas to get you started:
 ##
 <h4><b><samp>Connect with me:</samp></b></h4>
 
-[![Twitter](https://img.shields.io/badge/@AyushRa49585623-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AyushRa49585623)
+[![Twitter](https://img.shields.io/badge/@4yush_R4j-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/4yush_R4j)
 
-[![Linkedin](https://img.shields.io/badge/ayush-r-616504194?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-r-616504194/) 
+[![Linkedin](https://img.shields.io/badge/Ayush_Raj-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-r-616504194/) 
 
 [![Medium](https://img.shields.io/badge/@ayushrajsharma8051-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ayushrajsharma8051)
